@@ -1,0 +1,8 @@
+
+Name = Kashif
+Age = 34
+gender = M
+Address= pindi
+blood group= o+
+past disease= n
+Mobile no= 98765432
